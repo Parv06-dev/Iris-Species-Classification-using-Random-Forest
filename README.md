@@ -65,18 +65,21 @@ Compare Predictions with Actual Values
 97.05% Test Accuracy
 ```
 
-How to Run
-Clone the repository.
-Open the Jupyter Notebook.
-Install the required Python libraries if necessary.
-Run the notebook cells sequentially.
-View the model predictions and accuracy at the end.
+How to Run?
+
+1.Clone the repository.
+2.Open the Jupyter Notebook.
+3.Install the required Python libraries if necessary.
+4.Run the notebook cells sequentially.
+5.View the model predictions and accuracy at the end.
+
 Future Improvements
 Generate a confusion matrix.
 Display precision, recall, and F1-score.
 Compare Random Forest with other classification algorithms.
 Visualize feature importance.
 Experiment with different train-test split ratios and Random Forest parameters.
+
 Learning Outcome
 This project demonstrates the basic machine learning workflow:
 Dataset → Train/Test Split → Model Training → Prediction → Evaluation
